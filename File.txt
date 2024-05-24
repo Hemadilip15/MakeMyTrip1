@@ -1,2 +1,5 @@
 Scenario 1:Book a flight ticket
 Scenario 2:Book a flight ticket to Bangalore
+
+Scenario 5: Book a flight ticket to pune
+Scenario 6: Book a flight ticket to delhi
